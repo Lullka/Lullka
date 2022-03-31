@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lullka
 - 👀 I'm interested in creating some games and programs
-- 🌱 I’m currently learning C#
-<!--- - 💞️ I’m looking to collaborate on ... --->
+- 🤞  I hope to have a lot of fun!
+ <!--- - 💞️ I’m looking to collaborate on ... --->
 <!--- - 📫 How to reach me ... --->
 
 <div align="center">
